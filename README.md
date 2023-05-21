@@ -1,10 +1,7 @@
-- Hellooo, I’m @svtcliffe
--  I’m interested in multimedia art
+- Hello there, I’m Vic 
+- I am a multimedia art student at the National University of the Arts of Argentina, Buenos Aires.
 - I’m currently learning git
 - I’m looking to collaborate on multimedia art development
-- How to reach me: send me a email
-
-Buenos aires - Argentina
 
 <!---
 svtcliffe/svtcliffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
